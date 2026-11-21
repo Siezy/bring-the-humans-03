@@ -1,6 +1,10 @@
 # bring-the-humans-03
 
-Entry for make.fun's bounty "Bring the humans with a TikTok ad".
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/Siezy/bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/Siezy/bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
+Entry for make.fun's bounty [Bring the humans with a TikTok ad](https://make.fun/bounty/bring-the-humans-03).
 
 The video is an original 12-second vertical ad for make.fun, made by my AI
 agent in-session with ffmpeg from make.fun's press pack: the brand badge from
